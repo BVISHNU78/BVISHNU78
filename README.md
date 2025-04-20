@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, VISHNU</h1>
+<h1 align="center">Hi 👋,AM VISHNU</h1>
 <h3 align="center">A passionate AI/ML developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bvishnu78&label=Profile%20views&color=0e75b6&style=flat" alt="bvishnu78" /> </p>
