@@ -23,4 +23,4 @@
 <img src="https://leetcode-badge-sage.vercel.app/badge/bvishnu78?theme=dark&bgColor=282828" alt="LeetCode Stats" />
 
 ## 📊 GitHub Metrics
-![Metrics](https://metrics.lecoq.io/BVISHNU78?template=terminal&isocalendar=1&stargazers=1&people=1&projects=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&stargazers=false&stargazers.days=14&stargazers.charts=true&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.sample=0&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&projects=false&projects.limit=4&projects.descriptions=true&config.timezone=Asia%2FCalcutta)
+!https://metrics.lecoq.io/embed?user=BVISHNU78
